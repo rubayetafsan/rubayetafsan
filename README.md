@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **rubayet.afsan@gmail.com**
 
+- 📄 Know about my experiences [https://rubayet-resume.netlify.app](https://rubayet-resume.netlify.app)
+
 - ⚡ Fun fact **Explore Ideas**
 
 <h3 align="left">Connect with me:</h3>
