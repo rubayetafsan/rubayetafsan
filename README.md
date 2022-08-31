@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses etc....**
 
-- 👨‍💻 All of my projects are available at [https://rubayetportfolio.netlify.app/](https://rubayetportfolio.netlify.app/)
+- 👨‍💻 My portfolio at [https://rubayetportfolio.netlify.app/](https://rubayetportfolio.netlify.app/)
 
-- 💬 Ask me about **Front-End**
+- 💬 Ask me about **Front-End Development **
 
 - 📫 How to reach me **rubayet.afsan@gmail.com**
 
