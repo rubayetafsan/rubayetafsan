@@ -1,17 +1,17 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)
 
 <h1 align="center">Hi 👋, I'm Rubayet</h1>
-<h3 align="center">Front-End developer from Bangladesh</h3>
+<h3 align="center">Frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’m currently working on **GoBild GmbH**
+- 🔭 I’m currently working on **GoBild**
 
 - 🌱 I’m currently learning **Frameworks, Courses etc....**
 
 - 👨‍💻 My portfolio at [https://rubayetportfolio.netlify.app/](https://rubayetportfolio.netlify.app/)
 
-- 💬 Ask me about **Front-End Development **
+- 💬 Ask me about **Frontend Development **
 
 - 📫 How to reach me **rubayet.afsan@gmail.com**
 
