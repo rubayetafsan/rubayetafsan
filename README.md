@@ -11,7 +11,7 @@
 
 - 👨‍💻 My portfolio at [https://rubayetportfolio.netlify.app/](https://rubayetportfolio.netlify.app/)
 
-- 💬 Ask me about **Frontend Development **
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **rubayet.afsan@gmail.com**
 
