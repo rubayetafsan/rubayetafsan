@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubayetafsan&show_icons=true&locale=en" alt="rubayetafsan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetafsan&" alt="rubayetafsan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=rubayetafsan&" alt="rubayetafsan" /></p>
