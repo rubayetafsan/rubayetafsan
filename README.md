@@ -26,14 +26,14 @@ I build web and mobile products from the user interface to backend services and 
 
 <p align="left">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/888888" alt="Next.js" width="40" height="40"/></a>
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://material-ui.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
   <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/></a>
   <a href="https://storybook.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/></a>
@@ -80,16 +80,9 @@ I build web and mobile products from the user interface to backend services and 
 
 <p align="left">
   <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/></a>
-  <a href="https://www.cypress.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>
+  <a href="https://www.cypress.io/"><img src="https://cdn.simpleicons.org/cypress/69D3A7" alt="Cypress" width="40" height="40"/></a>
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+  <a href="https://unity.com/"><img src="https://cdn.simpleicons.org/unity/888888" alt="Unity" width="40" height="40"/></a>
 </p>
 
 Also experienced with Express.js, Vercel, CI/CD, REST APIs, Agile, and Scrum.
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubayetafsan&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rubayetafsan&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
